@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Appdroid</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/bold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/regular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/light</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Start">start</string>
+    <string name="Close">close</string>
+    <string name="placements">Placement : The Cell continuously co-ordinates with various industries and organizations for placement of its students. It has already successfully placed a high percentage of students in industry. It actively obtains feedback from organization and conveys it to respective departments which, in turn, train students accordingly, thereby increasing their hit ratio.</string>
+
+    <string name="aboutCllg">Inspired by the noble cause of education and with a philanthropic zeal, a group of twenty-two like-minded industrialists of Kolkata established Kalyan Bharti Trust (KBT), a public charitable foundation, to promote and provide higher education in the country and in the State of West Bengal, in particular.
+
+<br/> <br/>The vision of the founders of Kalyan Bharti Trust, ‘to prepare dynamic and caring citizens to meet the challenges of global society while retaining their traditional values’, has found its tangible reality in the provision of educational opportunities for a broad spectrum of learners - from the Primary to the Tertiary levels.
+
+<br/> <br/> The six wings of the Trust - The Heritage School (THS), Heritage Institute of Technology (HIT-K) , The Heritage Academy (THA) , Heritage Business School (HBS) ,Heritage Law College (HLC) and The Heritage College (THC) together constitute an oasis of learning and have, over the years, carved a niche for themselves among academicians, faculty, students and society, in general.
+
+<br/> <br/> A harmonious integration of valued traditions with modern outlook is the guiding principle behind the development of the academic environment that constitutes the basic philosophy of these six educational initiatives of Kalyan Bharti Trust.
+
+<br/> <br/> Besides these educational initiatives, Kalyan Bharti Trust carries out its social responsibilities through SURYAKIRAN and KALYANI. ‘Suryakiran’ is engaged in spreading education to the disadvantaged children of the neighbourhood, while ‘Kalyani’, a charitable health-care centre, provides basic medical facilities to the poor and needy.
+
+<br/> <br/> The Trust has plans to set up a Medical College, an Institute of Design and finally, a Private University in the near future.
+
+<br/> <br/> Kalyan Bharti Trust shares a great Indian dream - a dream of a new tomorrow where technological advancement would go hand in hand with intellectual development in laying the corner stone of a spiritually evolved new- age Indian, one who would stand tall to face global challenges to etch India’s pride in the annals of international progress</string>
+
+    <string name="aboutus"> VISION- "To meet the challenges of 21st century and become a Centre of Excellence in the field of Computer Science Engineering" <br/>
+        MISSION- Undertake research and development works in leading technologies by forging alliances with research organization, govt. entities, industries and alumni.
+    </string>
+
+    <string name="Cog">COGNITIO is the annual festival of Mechanical Engineering Department of NIT Jamshedpur. It was initiated in the session 2017-18 with a motive to stimulate innovative solutions to various real time problems in the industrial sector. Students of Mechanical Engineering and Manufacturing Engineering of various institutes participate in this symposium in different events dealing with the implementation of engineering concepts followed by its feasibility study, optimisation, documentation and communication.
+COGNITIO ’19 was organised from January 18-20, 2019. COGNITIO include events related to Study of technological advancements and its key features, Debate, Water Rocket Competition, Design/Analysis using CAD/CAM softwares, Case Study, Mock Placement Session, Science and Technology Quiz, B-Plan Competition, Structure Construction and Strength Testing, Social Practices. Also, profound lecture sessions by renowned industrialists/entrepreneurs are organised. The theme of COGNITIO ’19 was “INDUSTRY 4.0”, which corresponds to the 4th generation industrialization where automated sub-systems are driven by cyber physical systems powered by Internet of Things.</string>
+
+    <string name="urja">“ All work and no play makes Jack a dull boy ”
+
+Keeping this in mind the college pays a lot of emphasis on the all round development of the students. There is an athletic ground, a cricket ground in the campus. Apart from this, each of the hostels are provided with equipments of various sports like Table Tennis, Lawn tennis, cricket, football, badminton, carom, chess, etc. The students actively participate in these sports and there is a college team for cricket, football, basketball, badminton, volleyball, table tennis as well as athletics. They represent the college in various sports events held countrywide and make the college proud by bringing back scores of medals and trophies. The college also organizes various sports events, the most important ones being The Annual Sports Meet and East Zone Inter NIT Cricket Tournament. While the former allows the students to showcase the athlete in them, the latter provides a healthy competition with other NITs of the east zone, e.g. NIT Durgapur, NIT Patna, NIT Rourkela, etc.</string>
+
+    <string name="ojass">Ojass is the annual techno-management fest of NIT Jamshedpur. It is among the top notch techfests in the country. Over the years, Ojass has helped spark the genius in achievers who dared to dream big. The festival marks three days of absolute vigor and ecstatic participation of students from various parts of the country in over sixty technical, management, quizzing and gaming events with prize money worth up to whopping ₹ 1.2 million. The spirit of Ojass lies in encouraging sound engineering practices, making precision engineering a way of life, effectively bringing about a paradigm shift from the classroom to path-breaking innovation. </string>
+
+    <string name="culfest">Culfest is the annual cultural festival of the college. It is organised at national level and participants from the colleges all over India participate. The attraction of Culfest is Shades which is organised by the college FACES club members. In this a whole room is decorated in a theme using junk items. The cultural fest consists of competitions for dance, singing,fine arts, Group Discussion(GD), JAM, Antakshri, and a fashion show. Other attractions are juke box, paper dance, street play, x-games, rock concert, and hasya kavi sammelan.</string>
+
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+
+    </string-array>
+
+</resources>

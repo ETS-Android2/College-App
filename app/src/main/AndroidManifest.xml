@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appdroid">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.appdroid">
+        <activity android:name=".authentication.ForgetPasswordActivity"></activity>
+        <activity android:name=".authentication.LoginActivity" />
+        <activity android:name=".authentication.RegisterActivity"></activity>
+        <activity android:name=".ui.faculty.see_all2" />
+        <activity android:name=".ui.faculty.see_all1" />
+        <activity
+            android:name=".ui.home.places_near_by"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ui.home.facility"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ui.home.placements"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ui.home.life_at_nit"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ui.home.about_college"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".fullImageView" />
+        <activity
+            android:name=".ebook.pdfViewerActivity"
+            android:parentActivityName=".ebook.EbookActivity" />
+        <activity
+            android:name=".ebook.EbookActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
